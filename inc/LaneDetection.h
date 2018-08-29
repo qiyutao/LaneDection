@@ -1,6 +1,3 @@
-//
-// Created by adam on 18-7-17.
-//
 #ifndef LANE_DETECT_LaneDetection_H
 #define LANE_DETECT_LaneDetection_H
 
